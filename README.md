@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  
+  <img src="/public/Linkedin- Home.png" width="100%"/>
 </p>
 
 ## ✨ Tecnologias
