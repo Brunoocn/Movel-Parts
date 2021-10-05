@@ -11,16 +11,16 @@
 
 ## ✨ Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [React](https://reactjs.org)
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 💻 Projeto
+## 💻 Project
 
-O projeto da MovelParts foi uma proposta de transformação do site antigo da empresa mantendo sua essência.
+The MovelParts project was a proposal to transform the company's old website while keep your essence.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/wxiUPqCojX8geVBjEYpenz/Movelparts?node-id=0%3A1). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+You can view the project layout through [this link] (https://www.figma.com/file/wxiUPqCojX8geVBjEYpenz/Movelparts?node-id=0%3A1). You must have an account on [Figma] (http://figma.com/) to access it.
