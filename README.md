@@ -23,4 +23,4 @@ The MovelParts project was a proposal to transform the company's old website whi
 
 ## 🔖 Layout
 
-You can view the project layout through [this link] (https://www.figma.com/file/wxiUPqCojX8geVBjEYpenz/Movelparts?node-id=0%3A1). You must have an account on [Figma] (http://figma.com/) to access it.
+You can view the project layout through [this link](https://www.figma.com/file/wxiUPqCojX8geVBjEYpenz/Movelparts?node-id=0%3A1). You must have an account on [Figma](http://figma.com/) to access it.
