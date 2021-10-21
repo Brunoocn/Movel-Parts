@@ -9,7 +9,7 @@
   <img src="/public/Linkedin- Home.png" width="100%"/>
 </p>
 
-## ✨ Tecnologias
+## ✨ Technologies
 
 This project was developed with the following technologies:
 
